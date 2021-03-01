@@ -1,2 +1,2 @@
 # C-Sharp-Programming
-lab sessions
+This repository is created to upload C# notes and exercises.
